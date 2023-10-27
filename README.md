@@ -44,7 +44,7 @@ xcopy /E .\OpenRGB "C:\Program Files"
 taskschd.msc
 ```
 
-<>
+![task scheduler](https://github.com/catx0rr/OpenRGB/blob/master/images/task.png)
 
 OpenRGB
 ```

@@ -9,15 +9,11 @@ This is to setup Open RGB on my setup (ASUSTUF-PC) which runs on multiple hardwa
 Photo Samples:
 
 <p float="left">
-  <img src="https://github.com/catx0rr/OpenRGB/blob/master/images/default.jpg" width="100" />
-  <img src="https://github.com/catx0rr/OpenRGB/blob/master/images/hacker_lite.jpg" width="100" /> 
-  <img src="https://github.com/catx0rr/OpenRGB/blob/master/images/chroma_oak.jpg" width="100" />
-</p>
-<br></br>
-<p float="left">
-  <img src="/img1.png" width="100" />
-  <img src="/img2.png" width="100" /> 
-  <img src="/img3.png" width="100" />
+  <img src="https://github.com/catx0rr/OpenRGB/blob/master/images/default.jpg" width="150" />
+  <img src="https://github.com/catx0rr/OpenRGB/blob/master/images/hacker_lite.jpg" width="150" /> 
+  <img src="https://github.com/catx0rr/OpenRGB/blob/master/images/chroma_oak.jpg" width="150" />
+  <img src="https://github.com/catx0rr/OpenRGB/blob/master/images/chroma_pastel.jpg" width="150" />
+  <img src="https://github.com/catx0rr/OpenRGB/blob/master/images/rosy.jpg" width="150" />
 </p>
 
 ---

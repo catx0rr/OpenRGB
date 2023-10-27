@@ -9,11 +9,11 @@ This is to setup Open RGB on my setup (ASUSTUF-PC) which runs on multiple hardwa
 Photo Samples:
 
 <p float="left">
-  <img src="https://github.com/catx0rr/OpenRGB/blob/master/images/default.jpg" width="150" />
-  <img src="https://github.com/catx0rr/OpenRGB/blob/master/images/hacker_lite.jpg" width="150" /> 
-  <img src="https://github.com/catx0rr/OpenRGB/blob/master/images/chroma_oak.jpg" width="150" />
-  <img src="https://github.com/catx0rr/OpenRGB/blob/master/images/chroma_pastel.jpg" width="150" />
-  <img src="https://github.com/catx0rr/OpenRGB/blob/master/images/rosy.jpg" width="150" />
+  <img src="https://github.com/catx0rr/OpenRGB/blob/master/images/default.jpg" width="175" />
+  <img src="https://github.com/catx0rr/OpenRGB/blob/master/images/hacker_lite.jpg" width="175" /> 
+  <img src="https://github.com/catx0rr/OpenRGB/blob/master/images/chroma_oak.jpg" width="175" />
+  <img src="https://github.com/catx0rr/OpenRGB/blob/master/images/chroma_pastel.jpg" width="175" />
+  <img src="https://github.com/catx0rr/OpenRGB/blob/master/images/rosy.jpg" width="175" />
 </p>
 
 ---
@@ -29,7 +29,7 @@ git clone https://github.com/catx0rr/OpenRGB
 or 
 
 ```powershell
-wget 
+wget https://github.com/catx0rr/OpenRGB/archive/refs/heads/master.zip -O master.zip
 ```
 
 2. Copy the appdata files to %appdata%\OpenRGB
